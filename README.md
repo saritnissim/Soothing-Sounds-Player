@@ -23,7 +23,6 @@ Make sure to install the required Python libraries:
 
 Run the application:
 ```bash
-cd  Week3/Day5/Hackathon
 python3 app.py
 ```
 
